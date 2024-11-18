@@ -1,0 +1,48 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.pycache/
+
+# Tkinter
+*.log
+*.db
+
+# Папки и файлы виртуального окружения
+venv/
+env/
+.venv/
+env.bak/
+/wallpaper/
+/users.db/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Папки и файлы с конфиденциальной информацией
+config.json
+*.sqlite
+
+# Установленные зависимости
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Pytest
+.cache/
+
+# Архивы
+*.tar.gz
+*.zip
+*.tar
+*.rar
